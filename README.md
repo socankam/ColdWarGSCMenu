@@ -1,4 +1,4 @@
-A Cold War Zombies GSC Mod Menu
+A Cold War Zombies GSC Mod Menu. 
 Base by SoCanKam, credit to TheUnknownCod3r and ate47 for some functions.
 
 If you use any Code from my Menu, your Menu also has to be Open-Source as per the GNU GPLv3 License
